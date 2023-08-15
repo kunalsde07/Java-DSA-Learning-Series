@@ -5,6 +5,8 @@ public class Helloworld {
         System.out.println("Hello, world !");
         System.err.println("Program is not working git file is added !");
 
+        int n = 10;
+        System.out.println(n);
     }
 
 }
